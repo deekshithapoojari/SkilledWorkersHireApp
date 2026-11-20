@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "687749276405",
+    "firebase_url": "https://skilledworksapp-default-rtdb.firebaseio.com",
+    "project_id": "skilledworksapp",
+    "storage_bucket": "skilledworksapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687749276405:android:f0eeaee42e032ec9dfdbbc",
+        "android_client_info": {
+          "package_name": "com.example.skilledworkershireapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFPBrI50NtU0y-mlJi6sm54PgE6R9sHYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
